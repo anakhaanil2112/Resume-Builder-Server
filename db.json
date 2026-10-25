@@ -1,0 +1,190 @@
+{
+  "resumes": [
+    {
+      "fullName": "Ananya Sharma",
+      "location": "Kochi, Kerala, India",
+      "job": "Node.js Developer",
+      "email": "ananya.sharma@example.com",
+      "phone": "91 98765 43210",
+      "linkedin": "https://www.linkedin.com/in/ananya-sharma",
+      "github": "https://github.com/ananya-sharma",
+      "degree": "B.Tech in Computer Science",
+      "college": "ABC Institute of Technology",
+      "year": "2026",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "MongoDB",
+        "Authentication",
+        "Middleware",
+        "Server Side Logic",
+        "API Security",
+        "Database Integration",
+        "Git"
+      ],
+      "summary": "Node.js developer experienced in building scalable backend services and REST APIs. Skilled in server-side development, database integration, and performance optimization.",
+      "id": 2
+    },
+    {
+      "fullName": "Rahul Nair",
+      "location": "Bengaluru, Karnataka, India",
+      "job": "React Developer",
+      "email": "rahul.nair@example.com",
+      "phone": "+91 91234 56780",
+      "linkedin": "https://www.linkedin.com/in/rahul-nair-demo",
+      "github": "https://github.com/rahul-nair-demo",
+      "degree": "B.Tech in Information Technology",
+      "college": "Bengaluru Institute of Technology",
+      "year": "2025",
+      "skills": [
+        "React",
+        "JavaScript",
+        "JSX",
+        "React Hooks",
+        "Redux",
+        "Component Lifecycle",
+        "API Integration",
+        "State Management",
+        "HTML",
+        "CSS"
+      ],
+      "summary": "React developer with strong knowledge of component-based architecture, React hooks, and state management. Experienced in building fast, dynamic, and responsive web applications.",
+      "id": 3
+    },
+    {
+      "fullName": "Priya Menon",
+      "location": "Chennai, Tamil Nadu, India",
+      "job": "Frontend Developer",
+      "email": "priya.menon@example.com",
+      "phone": "+91 92345 67810",
+      "linkedin": "https://www.linkedin.com/in/priya-menon-demo",
+      "github": "https://github.com/priya-menon-demo",
+      "degree": "B.Sc. in Statistics",
+      "college": "Madras Institute of Technology",
+      "year": "2026",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Responsive Design",
+        "Tailwind CSS",
+        "Bootstrap",
+        "DOM Manipulation",
+        "Cross Browser Compatibility",
+        "Git"
+      ],
+      "summary": "Creative frontend developer with expertise in building responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and modern frameworks. Passionate about creating engaging user experiences and optimizing web performance.",
+      "id": 4
+    },
+    {
+      "fullName": "Aarav Patel",
+      "location": "Mumbai, Maharashtra, India",
+      "job": "Backend Developer",
+      "email": "aarav.patel@example.com",
+      "phone": "+91 93456 78901",
+      "linkedin": "https://www.linkedin.com/in/aarav-patel-demo",
+      "github": "https://github.com/aarav-patel-demo",
+      "degree": "B.Tech in Computer Science",
+      "college": "Mumbai Institute of Technology",
+      "year": "2025",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST API Development",
+        "Database Design",
+        "MongoDB",
+        "SQL",
+        "Authentication & Authorization",
+        "Server Security",
+        "API Integration",
+        "Git"
+      ],
+      "summary": "Backend developer experienced in building secure and scalable server-side applications. Skilled in REST API development, database management, and ensuring application performance and reliability.",
+      "id": 5
+    },
+    {
+      "fullName": "Ank",
+      "location": "Aranmula",
+      "job": "Cybersecurity Analyst",
+      "email": "anak@gmail.com",
+      "phone": "5898564895",
+      "linkedin": "www.linkedin.com/in/ank",
+      "github": "www.github.com/in/ank",
+      "degree": "Btech in Cyber Security",
+      "college": "AJCE",
+      "year": "2025",
+      "skills": [
+        "Network Security",
+        "Vulnerability Assessment",
+        "Penetration Testing",
+        "Security Monitoring",
+        "Incident Response",
+        "Risk Assessment",
+        "Firewalls",
+        "Encryption",
+        "Security Compliance",
+        "Threat Analysis"
+      ],
+      "summary": "Cybersecurity analyst focused on protecting systems and networks from cyber threats. Skilled in security monitoring, vulnerability assessment, and incident response.",
+      "id": 6
+    },
+    {
+      "fullName": "Ashwini A",
+      "location": "Kochi, Kerala, India",
+      "job": "Project Manager",
+      "email": "ash@gmail.com",
+      "phone": "98765 43210",
+      "linkedin": "https://www.linkedin.com/in/ash",
+      "github": "https://github.com/ash",
+      "degree": "Btech in IT",
+      "college": "ABC Institute of Technology",
+      "year": "2025",
+      "skills": [
+        "Project Planning",
+        "Agile Methodology",
+        "Scrum",
+        "Risk Management",
+        "Budget Management",
+        "Team Leadership",
+        "Stakeholder Communication",
+        "Time Management",
+        "Jira",
+        "Decision Making"
+      ],
+      "summary": "Project manager experienced in leading cross-functional teams and delivering projects on time and within budget. Skilled in project planning, stakeholder communication, and risk management.",
+      "id": 7
+    }
+  ],
+  "downloads": [
+    {
+      "timeStamp": "10/26/2026,3:14:56 AM",
+      "resumeIMG": "https://res.cloudinary.com/gkmhiyoi/image/upload/v1792964694/hgbt2yfj6qugghxxeu00.png",
+      "resumeId": 2,
+      "jobRole": "Node.js Developer",
+      "id": 1
+    },
+    {
+      "timeStamp": "10/26/2026,3:15:02 AM",
+      "resumeIMG": "https://res.cloudinary.com/gkmhiyoi/image/upload/v1792964701/zko59uyo7wsweoxw5eed.png",
+      "resumeId": 4,
+      "jobRole": "Frontend Developer",
+      "id": 2
+    },
+    {
+      "timeStamp": "10/26/2026,3:15:09 AM",
+      "resumeIMG": "https://res.cloudinary.com/gkmhiyoi/image/upload/v1792964709/ymhmk4svlimqulxl6nwq.png",
+      "resumeId": 5,
+      "jobRole": "Backend Developer",
+      "id": 3
+    },
+    {
+      "timeStamp": "10/26/2026,3:15:20 AM",
+      "resumeIMG": "https://res.cloudinary.com/gkmhiyoi/image/upload/v1792964720/g86chauzkbjgefdakkn4.png",
+      "resumeId": 7,
+      "jobRole": "Project Manager",
+      "id": 4
+    }
+  ]
+}
